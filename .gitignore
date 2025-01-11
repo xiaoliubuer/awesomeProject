@@ -1,0 +1,35 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Dependency directories (if you're not using Go modules)
+vendor/
+
+# GoLand IDE
+.idea/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# macOS-specific files
+.DS_Store
+
+# Node.js-related (if used in the project)
+node_modules/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
